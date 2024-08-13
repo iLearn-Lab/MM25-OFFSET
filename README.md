@@ -1,6 +1,7 @@
 # OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval
 
 This is an open-source implementation of the paper "OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval" (**OFFSET**).
+
 *Ckpt&Data: The checkpoints and dominant portion segmentation data of OFFSET is available in xxx.*
 
 ### Installation
