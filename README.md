@@ -3,7 +3,7 @@
 This is an open-source implementation of the paper "OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval" (**OFFSET**).
 
 *Data: The dominant portion segmentation data of OFFSET is available in [Google Drive](https://drive.google.com/file/d/1_tdFuGec__NTv-_DjUZ66dCwVgBEHxcX/view?usp=sharing).*
-
+ 
 ### Installation
 1. Clone the repository
 
