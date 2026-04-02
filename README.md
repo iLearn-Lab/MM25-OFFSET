@@ -3,7 +3,22 @@
 <div align="center">
   <img src="./assets/logo.png" width="500"> 
   <h1>(ACM MM 2025) OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval</h1>
-
+  <div align="center">
+  <a target="_blank" href="https://zivchen-ty.github.io/">Zhiwei&#160;Chen</a><sup>1</sup>,
+  <a target="_blank" href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng&#160;Hu</a><sup>1&#9993</sup>,
+  <a target="_blank" href="https://lee-zixu.github.io/">Zixu&#160;Li</a><sup>1</sup>,
+  <a target="_blank" href="https://zhihfu.github.io/">Zhiheng&#160;Fu</a><sup>1</sup>,
+  <a target="_blank" href="https://xuemengsong.github.io">Xuemeng&#160;Song</a><sup>2</sup>,
+  <a target="_blank" href="https://liqiangnie.github.io/index.html">Liqiang&#160;Nie</a><sup>3</sup>
+  </div>
+  <sup>1</sup>School of Software, Shandong University &#160&#160&#160</span>
+  <br />
+  <sup>2</sup>Department of Data Science, City University of Hong Kong, &#160&#160&#160</span>
+  <br />
+ <sup>3</sup>School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen), &#160&#160&#160</span>  <br />
+  <sup>&#9993&#160;</sup>Corresponding author&#160;&#160;</span>
+  <br/>
+  
   <p>
     <a href="https://acmmm2025.org/"><img src="https://img.shields.io/badge/ACM_MM-2025-blue.svg?style=flat-square" alt="ACM MM 2025"></a>
     <a href="https://arxiv.org/abs/2507.05631"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2507.05631-b31b1b.svg"></a>
